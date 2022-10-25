@@ -24,7 +24,7 @@ info: adds connection to stub and victim connects to it.
 status: inactive  
 
 version: CobianRAT  
-connects to: pastebin(.)com/raw/G22qkgYa
+connects to: pastebin(.)com/raw/G22qkgYa  
 info: adds connection to stub and victim connects to it.  
 status: inactive  
   
