@@ -16,13 +16,21 @@ It is still adviced to run all versions in a virtual machine or VPS.
 version: NjRAT 0.11g  
 connects to: pastebin(.)com/raw/jPBSDMAg  
 info: adds connection to stub and victim connects to it.
+status: inactive  
   
 version: NjRAT 0.12g  
 connects to: pastebin(.)com/raw/TvVzx1WV  
 info: adds connection to stub and victim connects to it.  
+status: inactive  
+
+version: CobianRAT  
+connects to: pastebin(.)com/raw/G22qkgYa
+info: adds connection to stub and victim connects to it.  
+status: inactive  
   
 version: NjRAT Danger Edition  
 connects to: hakim32.ddns(.)net  
 info: adds secret connection to stub a day after last execution.  
+status: inactive  
   
 ![danger.jpg](https://github.com/De-eloper/Image-Storage/raw/main/danger.jpg)  
