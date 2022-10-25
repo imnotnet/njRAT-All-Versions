@@ -1,0 +1,318 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+яσσтRAT
+</name>
+</assembly>
+<members>
+<member name="P:яσσтRAT.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.aboutwater">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.bullet_arrow_down">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.bullet_arrow_up">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.control_pause_blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.control_play_blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.Copyright">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.dz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.DzFlag">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_archive_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_arrow_circle_o_up_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_binoculars_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_bitbucket_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_bug_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_camera_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_clipboard_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_clone_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_code_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_comments_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_copy_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_cut_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_desktop_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_dot_circle_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_download_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_edit_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_edit_32_0_23272c_none1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_eye_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_facebook_official_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_facebook_square_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_file_archive_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_file_code_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_file_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_floppy_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_folder_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_folder_open_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_folder_open_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_gear_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_globe_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_hdd_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_home_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_info_circle_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_key_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_key_32_0_23272c_none1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_keyboard_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_link_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_link_32_0_23272c_none1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_lock_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_microphone_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_pause_circle_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_pencil_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_play_circle_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_power_off_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_question_circle_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_refresh_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_refresh_32_0_23272c_none1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_repeat_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_stop_circle_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_terminal_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_times_circle_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_times_rectangle_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_times_rectangle_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_toggle_on_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_trash_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_trash_o_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_upload_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.font_awesome_4_7_0_user_secret_32_0_23272c_none">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.JPEG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.notf">
+	<summary>
+  Looks up a localized string similar to              {5}
+	  {6}
+PC	: {0}
+USR	: {1}
+OS	: {2}
+CO	: {3}
+VR	: {4}.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.sound">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.welcome">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:яσσтRAT.My.Resources.Resources.wp1860654">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:яσσтRAT.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
