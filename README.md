@@ -15,7 +15,7 @@ It is still adviced to run all versions in a virtual machine or VPS.
 # Backdoored versions:
 version: NjRAT 0.11g  
 connects to: pastebin(.)com/raw/jPBSDMAg  
-info: adds connection to stub and victim connects to it.
+info: adds connection to stub and victim connects to it.  
 status: inactive  
   
 version: NjRAT 0.12g  
