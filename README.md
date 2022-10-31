@@ -1,3 +1,5 @@
+<img src=https://img.shields.io/github/repo-size/De-eloper/njRAT-All-Versions alt="Repo Size">  
+
 ![show.gif](https://github.com/De-eloper/Image-Storage/raw/main/show.gif)  
 
 # njRAT Collection
