@@ -5,9 +5,7 @@ Please use a virtual machine, sandbox or decompile before you use it.
   
   Good luck.</b> 
 
-<img src=https://img.shields.io/github/repo-size/De-eloper/njRAT-All-Versions alt="Repo Size">  
-
-![allrats.gif](https://github.com/De-eloper/Image-Storage/raw/main/allrats.gif)  
+<img src=https://img.shields.io/github/repo-size/ToolsArchives/njRAT-All-Versions alt="Repo Size">  
 
 # njRAT Collection
 <center> 
@@ -41,5 +39,3 @@ version: NjRAT Danger Edition
 connects to: hakim32.ddns(.)net  
 info: adds secret connection to stub a day after last execution.  
 status: inactive  
-  
-![danger.jpg](https://github.com/De-eloper/Image-Storage/raw/main/danger.jpg)  
