@@ -1,0 +1,36 @@
+﻿Host : 127.0.0.1
+Port : 5553
+Name Worm : W0rm
+Dir Folder : 4936E691V4J244T
+ExE In Folder : 27N3O49HNW9VK43.exe
+ExE Task Manager : w0rm
+Dir : %Temp%
+/\ ---------------- | hjWorm By hjIQ | ---------------- /\
+
+Host : 127.0.0.1
+Port : 5553
+Name Worm : W0rm
+Dir Folder : 4936E691V4J244T
+ExE In Folder : 27N3O49HNW9VK43.exe
+ExE Task Manager : w0rm
+Dir : %Temp%
+/\ ---------------- | hjWorm By hjIQ | ---------------- /\
+
+Host : 127.0.0.1
+Port : 5553
+Name Worm : W0rm
+Dir Folder : 4936E691V4J244T
+ExE In Folder : 27N3O49HNW9VK43.exe
+ExE Task Manager : w0rm
+Dir : %Temp%
+/\ ---------------- | hjWorm By hjIQ | ---------------- /\
+
+Host : 127.0.0.1
+Port : 5553
+Name Worm : W0rm
+Dir Folder : 4936E691V4J244T
+ExE In Folder : 27N3O49HNW9VK43.exe
+ExE Task Manager : w0rm
+Dir : %Temp%
+/\ ---------------- | hjWorm By hjIQ | ---------------- /\
+

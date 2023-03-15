@@ -1,0 +1,4 @@
+'code By hjIQ
+Dim Port, Host As String 
+port.connect = 5553 'Connect With Port
+Host.connect = "127.0.0.1" 'Connect With Host
