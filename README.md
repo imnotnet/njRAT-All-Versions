@@ -11,7 +11,7 @@ Please use a virtual machine, sandbox or decompile before you use it.
 <center> 
 
   NjRAT is a Remote Administration Tool. This repository contains a Njrat Editions.  
-  <a href=https://github.com/De-eloper/njRAT-Collection/releases/tag/njrats> Download NjRAT </a>  
+
   
 
   
