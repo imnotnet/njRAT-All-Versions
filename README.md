@@ -24,18 +24,34 @@ version: NjRAT 0.11g
 connects to: pastebin(.)com/raw/jPBSDMAg  
 info: adds connection to stub and victim connects to it.  
 status: inactive  
+cleaned status: not cleaned  
   
 version: NjRAT 0.12g  
 connects to: pastebin(.)com/raw/TvVzx1WV  
 info: adds connection to stub and victim connects to it.  
 status: inactive  
+cleaned status: not cleaned  
 
 version: CobianRAT  
 connects to: pastebin(.)com/raw/G22qkgYa  
 info: adds connection to stub and victim connects to it.  
 status: inactive  
+cleaned status: not cleaned  
   
 version: NjRAT Danger Edition  
 connects to: hakim32.ddns(.)net  
 info: adds secret connection to stub a day after last execution.  
 status: inactive  
+cleaned status: not cleaned  
+
+version: NjRAT ACS Edition
+connects to: elektraal.duckdns.org  
+info: pw.dll plugin drops backdoor to victim also.  
+status: active  
+cleaned status: replaced pw.dll plugin  
+
+version: ZikuRAT VIP
+connects to: kasper76.ddns(.)net
+info: the stub also connects to the domain above.  
+status: inactive  
+cleaned status: not cleaned  
