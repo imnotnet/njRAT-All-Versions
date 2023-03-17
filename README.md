@@ -50,8 +50,9 @@ info: pw.dll plugin drops backdoor to victim also.
 status: active  
 cleaned status: replaced pw.dll plugin  
 
-version: ZikuRAT VIP
-connects to: kasper76.ddns(.)net
+version: ZikuRAT VIP  
+connects to: kasper76.ddns(.)net  
 info: the stub also connects to the domain above.  
+extra info: used same pw.dll plugin as ACS, replaced pw.dll  
 status: inactive  
 cleaned status: not cleaned  
