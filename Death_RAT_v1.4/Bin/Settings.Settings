@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<Settings xmlns="http://tempuri.org/Settings.xsd">
+  <Settings>
+    <AutoLog>True</AutoLog>
+    <NOTIF>True</NOTIF>
+    <SOUND>True</SOUND>
+    <AutoListen>False</AutoListen>
+  </Settings>
+</Settings>

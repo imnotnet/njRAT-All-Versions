@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<Settings xmlns="http://tempuri.org/Settings.xsd">
+  <MainForm>
+    <Ports>666</Ports>
+  </MainForm>
+</Settings>
