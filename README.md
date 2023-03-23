@@ -74,3 +74,12 @@ info: the stub also connects to the domain above.
 extra info: used same pw.dll plugin as ACS, replaced pw.dll  
 status: inactive  
 cleaned status: partially    
+
+version: Winner RAT  
+connects to: ar1x(.)com  
+payload: Unknown  
+info: the stub also connects to the domain above.  
+extra info: the domain is for sale the malware is no active.  
+status: inactive  
+cleaned status: not cleaned    
+
