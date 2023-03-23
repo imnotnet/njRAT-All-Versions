@@ -8,6 +8,10 @@ Unarchived: ARES RAT
 Reason: Unnecessarily large WAV file in resources taking up 48+ MB of space.  
 Cannot be uploaded because of the filesize.  
 
+Unarchived: njRAT 0.7d Green Edition (RUS)  
+Reason: Instantly drops a backdoor when launched to owners PC.  
+If I clean this I will upload it, else, no..  
+
 <img src=https://img.shields.io/github/repo-size/ToolsArchives/njRAT-All-Versions alt="Repo Size">  
 
 # njRAT Collection
