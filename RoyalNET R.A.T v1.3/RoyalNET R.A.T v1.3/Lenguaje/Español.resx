@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="A1" xml:space="preserve">
+    <value>Limpiar</value>
+    <comment>Inicio Form1</comment>
+  </data>
+  <data name="A3" xml:space="preserve">
+    <value>Salir</value>
+  </data>
+  <data name="A4" xml:space="preserve">
+    <value>Atacar</value>
+  </data>
+  <data name="A5" xml:space="preserve">
+    <value>Información</value>
+  </data>
+  <data name="A6" xml:space="preserve">
+    <value>Opciones</value>
+  </data>
+  <data name="A7" xml:space="preserve">
+    <value>Registro</value>
+  </data>
+  <data name="A8" xml:space="preserve">
+    <value>Conexiones</value>
+  </data>
+  <data name="A9" xml:space="preserve">
+    <value>No-IP</value>
+  </data>
+  <data name="AA1" xml:space="preserve">
+    <value>Verificar</value>
+  </data>
+  <data name="AB7" xml:space="preserve">
+    <value>Direcciones IP</value>
+  </data>
+  <data name="AB9" xml:space="preserve">
+    <value>DDOS Panel</value>
+  </data>
+  <data name="AC1" xml:space="preserve">
+    <value>Intentos de Conexion</value>
+  </data>
+  <data name="AC2" xml:space="preserve">
+    <value>Conexiones Establecidas</value>
+  </data>
+  <data name="AC3" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="AC4" xml:space="preserve">
+    <value>Método</value>
+  </data>
+  <data name="AC5" xml:space="preserve">
+    <value>TCP / UDP Mensaje</value>
+  </data>
+  <data name="AC6" xml:space="preserve">
+    <value>Puerto</value>
+  </data>
+  <data name="AC7" xml:space="preserve">
+    <value>Threads</value>
+  </data>
+  <data name="AC8" xml:space="preserve">
+    <value>HTTP Subsitio</value>
+  </data>
+  <data name="AC9" xml:space="preserve">
+    <value>Timeout</value>
+  </data>
+  <data name="AA2" xml:space="preserve">
+    <value>País</value>
+  </data>
+  <data name="AA3" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="AA4" xml:space="preserve">
+    <value>IP</value>
+  </data>
+  <data name="AA5" xml:space="preserve">
+    <value>Nombre del Equipo</value>
+  </data>
+  <data name="AA6" xml:space="preserve">
+    <value>Nombre de Usuario</value>
+  </data>
+  <data name="AA7" xml:space="preserve">
+    <value>SO</value>
+  </data>
+  <data name="AA8" xml:space="preserve">
+    <value>RAM</value>
+  </data>
+  <data name="AA9" xml:space="preserve">
+    <value>Procesador</value>
+  </data>
+  <data name="AB1" xml:space="preserve">
+    <value>Versión</value>
+  </data>
+  <data name="AB2" xml:space="preserve">
+    <value>Handle</value>
+  </data>
+  <data name="AF1" xml:space="preserve">
+    <value>Restablecer</value>
+  </data>
+  <data name="AE7" xml:space="preserve">
+    <value>Copiar IP</value>
+  </data>
+  <data name="AE8" xml:space="preserve">
+    <value>Quitar de la Lista</value>
+  </data>
+  <data name="AE9" xml:space="preserve">
+    <value>Limpiar Lista</value>
+  </data>
+  <data name="AD1" xml:space="preserve">
+    <value>Panel de Control</value>
+  </data>
+  <data name="AD2" xml:space="preserve">
+    <value>Actualizar Miniatura</value>
+  </data>
+  <data name="AD3" xml:space="preserve">
+    <value>Bandera</value>
+  </data>
+  <data name="AD4" xml:space="preserve">
+    <value>Marcar</value>
+  </data>
+  <data name="AD5" xml:space="preserve">
+    <value>Desmarcar</value>
+  </data>
+  <data name="AD6" xml:space="preserve">
+    <value>Server</value>
+  </data>
+  <data name="AD7" xml:space="preserve">
+    <value>Reiniciar</value>
+  </data>
+  <data name="AD8" xml:space="preserve">
+    <value>Cerrar</value>
+  </data>
+  <data name="AD9" xml:space="preserve">
+    <value>Ping</value>
+  </data>
+  <data name="AE2" xml:space="preserve">
+    <value>Seleccionar Todos</value>
+  </data>
+  <data name="AE3" xml:space="preserve">
+    <value>Invertir Seleccion</value>
+  </data>
+  <data name="AE5" xml:space="preserve">
+    <value>Enviar a Todos</value>
+  </data>
+  <data name="AE6" xml:space="preserve">
+    <value>Color de Fuente</value>
+  </data>
+  <data name="AF4" xml:space="preserve">
+    <value>Botnet/Log</value>
+    <comment>Fin Form1</comment>
+  </data>
+  <data name="B1" xml:space="preserve">
+    <value>Assembly</value>
+    <comment>Inicio FrmOptions</comment>
+  </data>
+  <data name="B2" xml:space="preserve">
+    <value>Creditos: fLaSh</value>
+  </data>
+  <data name="B3" xml:space="preserve">
+    <value>Configuración</value>
+  </data>
+  <data name="B4" xml:space="preserve">
+    <value>Crear Servidor</value>
+  </data>
+  <data name="B5" xml:space="preserve">
+    <value>General</value>
+  </data>
+  <data name="B7" xml:space="preserve">
+    <value>Notificación</value>
+  </data>
+  <data name="B9" xml:space="preserve">
+    <value>Contraseña</value>
+  </data>
+  <data name="BA1" xml:space="preserve">
+    <value>Puertos</value>
+  </data>
+  <data name="BA2" xml:space="preserve">
+    <value>Puerto Principal</value>
+  </data>
+  <data name="BA3" xml:space="preserve">
+    <value>Puerto Secundario</value>
+  </data>
+  <data name="BA6" xml:space="preserve">
+    <value>Abrir Configuración</value>
+  </data>
+  <data name="BA7" xml:space="preserve">
+    <value>IP/DNS</value>
+  </data>
+  <data name="BA9" xml:space="preserve">
+    <value>Server ID</value>
+  </data>
+  <data name="BB2" xml:space="preserve">
+    <value>Mutex</value>
+  </data>
+  <data name="BB3" xml:space="preserve">
+    <value>FileDescription</value>
+  </data>
+  <data name="BB4" xml:space="preserve">
+    <value>CompanyName</value>
+  </data>
+  <data name="BB5" xml:space="preserve">
+    <value>LegalCopyright</value>
+  </data>
+  <data name="BB6" xml:space="preserve">
+    <value>File Version</value>
+  </data>
+  <data name="BB7" xml:space="preserve">
+    <value>Product Version</value>
+  </data>
+  <data name="BB8" xml:space="preserve">
+    <value>Directorio</value>
+  </data>
+  <data name="BB9" xml:space="preserve">
+    <value>Carpeta</value>
+  </data>
+  <data name="BC2" xml:space="preserve">
+    <value>Clave del registro</value>
+  </data>
+  <data name="BC3" xml:space="preserve">
+    <value>Atributos</value>
+  </data>
+  <data name="BC4" xml:space="preserve">
+    <value>Ventana Emergente (PopUp)</value>
+  </data>
+  <data name="BC5" xml:space="preserve">
+    <value>Globo de Notificación</value>
+  </data>
+  <data name="BC6" xml:space="preserve">
+    <value>Sonido de Notificación</value>
+  </data>
+  <data name="BC7" xml:space="preserve">
+    <value>Cerrar en la barra de tareas</value>
+  </data>
+  <data name="BC8" xml:space="preserve">
+    <value>Escuchar Al abrir</value>
+  </data>
+  <data name="BC9" xml:space="preserve">
+    <value>Mostrar vista previa</value>
+  </data>
+  <data name="BD1" xml:space="preserve">
+    <value>Ver</value>
+  </data>
+  <data name="BD2" xml:space="preserve">
+    <value>Guardar Configuración</value>
+  </data>
+  <data name="BD3" xml:space="preserve">
+    <value>Activar Assembly</value>
+  </data>
+  <data name="BD5" xml:space="preserve">
+    <value>Activar AutoInicio</value>
+  </data>
+  <data name="BD6" xml:space="preserve">
+    <value>Activar Keylogger</value>
+  </data>
+  <data name="BD7" xml:space="preserve">
+    <value>Server Persistente</value>
+  </data>
+  <data name="BD8" xml:space="preserve">
+    <value>Oculto</value>
+  </data>
+  <data name="BD9" xml:space="preserve">
+    <value>System</value>
+  </data>
+  <data name="BE6" xml:space="preserve">
+    <value>Generar</value>
+  </data>
+  <data name="BE8" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="BE9" xml:space="preserve">
+    <value>Abrir</value>
+  </data>
+  <data name="BF4" xml:space="preserve">
+    <value>Assembly Version</value>
+  </data>
+  <data name="CA1" xml:space="preserve">
+    <value>Ingresar</value>
+    <comment>Inicio Form No-IP</comment>
+  </data>
+  <data name="CA2" xml:space="preserve">
+    <value>E-Mail/User</value>
+  </data>
+  <data name="CA4" xml:space="preserve">
+    <value>Olvido su Contraseña</value>
+  </data>
+  <data name="CA5" xml:space="preserve">
+    <value>Crear Nueva Cuenta</value>
+  </data>
+  <data name="CA7" xml:space="preserve">
+    <value>Editar</value>
+  </data>
+  <data name="CA8" xml:space="preserve">
+    <value>Listar Host</value>
+  </data>
+  <data name="CA9" xml:space="preserve">
+    <value>Actualizar</value>
+  </data>
+  <data name="CB1" xml:space="preserve">
+    <value>Ocultar/Mostrar</value>
+  </data>
+  <data name="CB2" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="CB3" xml:space="preserve">
+    <value>Error - Compruebe su conexión a Internet</value>
+  </data>
+  <data name="CB4" xml:space="preserve">
+    <value>Solicitando dirección IP ...</value>
+  </data>
+  <data name="CB5" xml:space="preserve">
+    <value>Su IP es</value>
+  </data>
+  <data name="CB6" xml:space="preserve">
+    <value>Actualizando </value>
+  </data>
+  <data name="CB7" xml:space="preserve">
+    <value>Host Invalido</value>
+  </data>
+  <data name="CB8" xml:space="preserve">
+    <value>No ha insertado la Contraseña</value>
+  </data>
+  <data name="CB9" xml:space="preserve">
+    <value>Por Favor Inserte un Email Valido</value>
+  </data>
+  <data name="CC1" xml:space="preserve">
+    <value>No se puede conectar</value>
+  </data>
+  <data name="CC2" xml:space="preserve">
+    <value>Éxito - Actualización DNS correcta</value>
+  </data>
+  <data name="CC3" xml:space="preserve">
+    <value>Éxito - La dirección IP es actual, no hay ninguna actualización realizada</value>
+  </data>
+  <data name="CC4" xml:space="preserve">
+    <value>Error - El host proporcionado no existe</value>
+  </data>
+  <data name="CC5" xml:space="preserve">
+    <value>Error - Combinación no válida (Nombre de usuario/Contraseña)</value>
+  </data>
+  <data name="CC6" xml:space="preserve">
+    <value>Error - Cliente desactivado</value>
+  </data>
+  <data name="CC7" xml:space="preserve">
+    <value>Error - La solicitud de actualización fue enviada como una característica que no está disponible para ese usuario</value>
+  </data>
+  <data name="CC8" xml:space="preserve">
+    <value>Error - Nombre de usuario bloqueado debido a los abusos.</value>
+  </data>
+  <data name="CC9" xml:space="preserve">
+    <value>Error - Un error fatal de nuestro lado, como un corte de base de datos. Vuelva a intentar la actualización despues de 30 minutos.</value>
+    <comment>Fin Form No-IP</comment>
+  </data>
+  <data name="DA2" xml:space="preserve">
+    <value>Ventanas Abiertas</value>
+  </data>
+  <data name="DA3" xml:space="preserve">
+    <value>Procesos Activos</value>
+  </data>
+  <data name="DA4" xml:space="preserve">
+    <value>Regedit</value>
+  </data>
+  <data name="DA5" xml:space="preserve">
+    <value>CMD</value>
+  </data>
+  <data name="DA6" xml:space="preserve">
+    <value>PortaPapeles</value>
+  </data>
+  <data name="DA7" xml:space="preserve">
+    <value>Programas Instalados</value>
+  </data>
+  <data name="DA8" xml:space="preserve">
+    <value>Escritorio Remoto</value>
+  </data>
+  <data name="DA9" xml:space="preserve">
+    <value>WebCam</value>
+  </data>
+  <data name="DB1" xml:space="preserve">
+    <value>Keylogger</value>
+  </data>
+  <data name="DB2" xml:space="preserve">
+    <value>Gestor de Archivos</value>
+  </data>
+  <data name="DB3" xml:space="preserve">
+    <value>Descargas</value>
+  </data>
+  <data name="DB4" xml:space="preserve">
+    <value>Chat</value>
+  </data>
+  <data name="DB5" xml:space="preserve">
+    <value>Mensaje Falso</value>
+  </data>
+  <data name="DB6" xml:space="preserve">
+    <value>Otros</value>
+  </data>
+  <data name="DB7" xml:space="preserve">
+    <value>Leer Portapapeles</value>
+  </data>
+  <data name="DB8" xml:space="preserve">
+    <value>Funciones</value>
+  </data>
+  <data name="DB9" xml:space="preserve">
+    <value>Espía</value>
+  </data>
+  <data name="DC1" xml:space="preserve">
+    <value>Diversión</value>
+  </data>
+  <data name="DC2" xml:space="preserve">
+    <value>Tipo</value>
+  </data>
+  <data name="DC3" xml:space="preserve">
+    <value>Enviar Texto al Portapapeles</value>
+  </data>
+  <data name="DC4" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="DC5" xml:space="preserve">
+    <value>Proceso</value>
+  </data>
+  <data name="DC9" xml:space="preserve">
+    <value>Ruta de Acceso</value>
+  </data>
+  <data name="DD1" xml:space="preserve">
+    <value>Capturar</value>
+  </data>
+  <data name="DD2" xml:space="preserve">
+    <value>Datos</value>
+  </data>
+  <data name="DD3" xml:space="preserve">
+    <value>Ubicación de la Instalación</value>
+  </data>
+  <data name="DD4" xml:space="preserve">
+    <value>Nombre Carpeta/Archivo</value>
+  </data>
+  <data name="DD5" xml:space="preserve">
+    <value>Tamaño</value>
+  </data>
+  <data name="DD6" xml:space="preserve">
+    <value>Progreso</value>
+  </data>
+  <data name="DD7" xml:space="preserve">
+    <value>Nombre del Archivo</value>
+  </data>
+  <data name="DD8" xml:space="preserve">
+    <value>Estado</value>
+  </data>
+  <data name="DD9" xml:space="preserve">
+    <value>Destino</value>
+  </data>
+  <data name="DE2" xml:space="preserve">
+    <value>Nueva Carpeta</value>
+  </data>
+  <data name="DE3" xml:space="preserve">
+    <value>Cambiar Nombre</value>
+  </data>
+  <data name="DE4" xml:space="preserve">
+    <value>Obtener Miniatura</value>
+  </data>
+  <data name="DE5" xml:space="preserve">
+    <value>Subir Archivo</value>
+  </data>
+  <data name="DE6" xml:space="preserve">
+    <value>Archivo</value>
+  </data>
+  <data name="DE7" xml:space="preserve">
+    <value>Ejecutar</value>
+  </data>
+  <data name="DE8" xml:space="preserve">
+    <value>Borrar</value>
+  </data>
+  <data name="DE9" xml:space="preserve">
+    <value>Descargar</value>
+  </data>
+  <data name="DF1" xml:space="preserve">
+    <value>Maximizar</value>
+  </data>
+  <data name="DF2" xml:space="preserve">
+    <value>Restaurar</value>
+  </data>
+  <data name="DF3" xml:space="preserve">
+    <value>Minimizar</value>
+  </data>
+  <data name="DF5" xml:space="preserve">
+    <value>Terminar</value>
+  </data>
+  <data name="DF6" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="DF7" xml:space="preserve">
+    <value>Eliminar</value>
+  </data>
+  <data name="DF8" xml:space="preserve">
+    <value>Abrir Carpeta de Descargas</value>
+  </data>
+  <data name="AE1" xml:space="preserve">
+    <value>Desinstalar</value>
+  </data>
+  <data name="B6" xml:space="preserve">
+    <value>Cambiar Icono</value>
+  </data>
+  <data name="BA4" xml:space="preserve">
+    <value>Descripción</value>
+  </data>
+  <data name="BA5" xml:space="preserve">
+    <value>Protocolo</value>
+  </data>
+  <data name="BB1" xml:space="preserve">
+    <value>Puerto Local</value>
+  </data>
+  <data name="BD4" xml:space="preserve">
+    <value>Puerto Externo</value>
+  </data>
+  <data name="BE3" xml:space="preserve">
+    <value>IP Local</value>
+  </data>
+  <data name="BE4" xml:space="preserve">
+    <value>IP Pública</value>
+  </data>
+  <data name="BE5" xml:space="preserve">
+    <value>Activado</value>
+  </data>
+  <data name="BE7" xml:space="preserve">
+    <value>Agregar</value>
+  </data>
+  <data name="BF1" xml:space="preserve">
+    <value>Activar UPnP</value>
+  </data>
+  <data name="DF9" xml:space="preserve">
+    <value>Iniciar CMD</value>
+  </data>
+  <data name="DG1" xml:space="preserve">
+    <value>Detener CMD</value>
+  </data>
+  <data name="DG2" xml:space="preserve">
+    <value>Iniciar</value>
+  </data>
+  <data name="DG3" xml:space="preserve">
+    <value>Detener</value>
+  </data>
+  <data name="DG6" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
+  <data name="DG7" xml:space="preserve">
+    <value>Probar</value>
+  </data>
+  <data name="DG8" xml:space="preserve">
+    <value>Cambiar</value>
+  </data>
+  <data name="DG9" xml:space="preserve">
+    <value>Apagar</value>
+  </data>
+  <data name="DH2" xml:space="preserve">
+    <value>Calidad</value>
+  </data>
+  <data name="DH3" xml:space="preserve">
+    <value>Cliente ID</value>
+  </data>
+  <data name="DH4" xml:space="preserve">
+    <value>Servidor ID</value>
+  </data>
+  <data name="DH5" xml:space="preserve">
+    <value>Titulo</value>
+  </data>
+  <data name="DH6" xml:space="preserve">
+    <value>Mensaje</value>
+  </data>
+  <data name="DH7" xml:space="preserve">
+    <value>Apagar Monitor</value>
+  </data>
+  <data name="DH8" xml:space="preserve">
+    <value>Invertir Mouse</value>
+  </data>
+  <data name="DH9" xml:space="preserve">
+    <value>Ocultar TaskBar</value>
+  </data>
+  <data name="DI3" xml:space="preserve">
+    <value>Guardar Imagen</value>
+  </data>
+  <data name="DI4" xml:space="preserve">
+    <value>Expandir</value>
+  </data>
+  <data name="DI5" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="AB3" xml:space="preserve">
+    <value>El Servidor será desinstalado ¿Desea Continuar?</value>
+  </data>
+  <data name="AB4" xml:space="preserve">
+    <value>Conexion Perdida</value>
+  </data>
+  <data name="AB5" xml:space="preserve">
+    <value>Usuarios Conectados</value>
+  </data>
+  <data name="AB6" xml:space="preserve">
+    <value>Nueva Conexión</value>
+  </data>
+  <data name="AB8" xml:space="preserve">
+    <value>Conexión Entrante</value>
+  </data>
+  <data name="BF2" xml:space="preserve">
+    <value>Debe tener un Valor</value>
+  </data>
+  <data name="BF3" xml:space="preserve">
+    <value>Puerto Usado para Aceptar Conexiones</value>
+  </data>
+  <data name="BF5" xml:space="preserve">
+    <value>Puerto Usado para la Tranferencia de Archivos</value>
+    <comment>Fin FrmOptions</comment>
+  </data>
+  <data name="DI6" xml:space="preserve">
+    <value>Exclamación</value>
+  </data>
+  <data name="DI8" xml:space="preserve">
+    <value>Pregunta</value>
+  </data>
+  <data name="DI9" xml:space="preserve">
+    <value>Usuario</value>
+  </data>
+  <data name="DJ1" xml:space="preserve">
+    <value>Informacion del PC</value>
+  </data>
+  <data name="DJ2" xml:space="preserve">
+    <value>Informacion del Server</value>
+  </data>
+  <data name="DJ3" xml:space="preserve">
+    <value>Dice</value>
+  </data>
+  <data name="DJ4" xml:space="preserve">
+    <value>URL Invalida</value>
+  </data>
+  <data name="DJ5" xml:space="preserve">
+    <value>Error - No se Especificó un Nombre</value>
+  </data>
+  <data name="DJ6" xml:space="preserve">
+    <value>Sokets no Conectados. Espere 30 segundos para reintentar</value>
+  </data>
+  <data name="DJ7" xml:space="preserve">
+    <value>No ha Seleccionado Ningun Dispositivo</value>
+    <comment>Fin Manager</comment>
+  </data>
+  <data name="BC1" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="DA1" xml:space="preserve">
+    <value>Icono</value>
+  </data>
+  <data name="DC6" xml:space="preserve">
+    <value>Descargar y Ejecutar</value>
+  </data>
+  <data name="DC7" xml:space="preserve">
+    <value>Sistema</value>
+  </data>
+  <data name="DC8" xml:space="preserve">
+    <value>Abrir Pagina</value>
+  </data>
+  <data name="DF4" xml:space="preserve">
+    <value>Cambiar Wallpaper &lt;&lt;Desde URL&gt;&gt;</value>
+  </data>
+  <data name="DG4" xml:space="preserve">
+    <value>Enviar Clicks</value>
+  </data>
+  <data name="DG5" xml:space="preserve">
+    <value>Dispositivo</value>
+  </data>
+</root>
