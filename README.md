@@ -1,6 +1,6 @@
 ## DELETE YOUR CURRENT DOWNLOAD, AND REDOWNLOAD THE COLLECTION!  
-My friend sent a few files for my collection, some were infected with Neshta.  
-I have cleaned my repo and please check your system.  
+Sorry!! But my friend he sent me some versions as a contribution, unknowns to me for a week i kept these files up. They were infected with neshta (file infecting virus) I had to twice scanover my directory and find clean verison. If you are infected forgive my friend because he also didnt know he was infected.  
+INFECTED PEOPLE READ!! Download DR WEB CUREIT, it not interferes with you current AV and will cure files   instead of deleting directly like many antivirus do.  
 ### CLEAN YOUR SYSTEM (CURE NESHTA): https://www.softpedia.com/get/Antivirus/Dr-WEB-CureIt.shtml  
 ### CHECK FOR BACKDOOR (FOR YOUR SAFETY): https://www.bleepingcomputer.com/download/rkill/  
 
