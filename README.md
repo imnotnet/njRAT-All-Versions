@@ -3,7 +3,10 @@ It's simply a collection of *every* njrat version ever made, any version with *b
 If I can *clean* the backdoor or remove it, I will do so. Otherwise i've written info about the backdoor.  
 I will add anything based on the released/decompiled njRAT/njRDP/njWorm source codes.  
 This is for *archival* purposes only, I am not responsible for *any* of your usage or any problems that you will run into.  
-</b>
+</b>  
+Unarchived: ARES RAT  
+Reason: Unnecessarily large WAV file in resources taking up 48+ MB of space.  
+Cannot be uploaded because of the filesize.  
 
 <img src=https://img.shields.io/github/repo-size/ToolsArchives/njRAT-All-Versions alt="Repo Size">  
 
