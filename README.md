@@ -70,4 +70,4 @@ payload: njRAT
 info: the stub also connects to the domain above.  
 extra info: used same pw.dll plugin as ACS, replaced pw.dll  
 status: inactive  
-cleaned status: not cleaned  
+cleaned status: partially    
