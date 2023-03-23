@@ -1,3 +1,6 @@
+### THAT FILE INFECT NESHTA I HATE IT!!! IM CURRENTLY GETTING RID OF ALL INFECTED ONES!!!  
+### AND I AM CLEANING THE INFECTED FILES ASAP!!!  
+
 <b>This is a collection, it's not organized. It's not a collection of the *best* versions, every single one is being archived.  
 It's simply a collection of *every* njrat version ever made, any version with *backdoors*, I will add info.  
 If I can *clean* the backdoor or remove it, I will do so. Otherwise i've written info about the backdoor.  
