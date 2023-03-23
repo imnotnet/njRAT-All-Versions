@@ -12,7 +12,8 @@ Unarchived: njRAT 0.7d Green Edition (RUS)
 Reason: Instantly drops a backdoor when launched to owners PC.  
 If I clean this I will upload it, else, no..  
 
-<img src=https://img.shields.io/github/repo-size/ToolsArchives/njRAT-All-Versions alt="Repo Size">  
+<img src=https://img.shields.io/github/repo-size/ToolsArchives/njRAT-All-Versions alt="Repo Size"> That's right...  
+500+ MB of njRAT edition
 
 # njRAT Collection
 <center> 
