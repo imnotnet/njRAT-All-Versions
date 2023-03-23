@@ -16,7 +16,8 @@ Please use a virtual machine, sandbox or decompile before you use it.
 
   
 # Info on all versions:  
-Versions have been cleaned manually of backdoors or viruses except for few. (No Neshta or Backdoor.)  
+Versions have been cleaned manually of backdoors or viruses except for few.
+(No file-infectors (Neshta, etc.) or Backdoors (Will be removed.)  
 It is still adviced to run all versions in a virtual machine or VPS.  
   
 # Backdoored versions:
@@ -43,6 +44,13 @@ connects to: hakim32.ddns(.)net
 info: adds secret connection to stub a day after last execution.  
 status: inactive  
 cleaned status: not cleaned  
+
+version: NjRAT Dangerous Edition 2019  
+connects to: pujakumari.duckdns(.)org  
+info: when the builder is opened it tries to execute "Hacker.jpg" and "loader.exe".  
+status: inactive  
+cleaned status: cleaned (removed backdoors from files, will error when trying to find them.)  
+
 
 version: NjRAT ACS Edition
 connects to: elektraal.duckdns.org  
