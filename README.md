@@ -50,9 +50,8 @@ connects to: pujakumari.duckdns(.)org
 info: when the builder is opened it tries to execute "Hacker.jpg" and "loader.exe".  
 status: inactive  
 cleaned status: cleaned (removed backdoors from files, will error when trying to find them.)  
-
-
-version: NjRAT ACS Edition
+  
+version: NjRAT ACS Edition  
 connects to: elektraal.duckdns.org  
 info: pw.dll plugin drops backdoor to victim also.  
 status: active  
