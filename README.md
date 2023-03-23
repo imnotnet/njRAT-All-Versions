@@ -1,9 +1,7 @@
-<b>All of the content here is for educational, research and reversing purposes only.  
-I am not responsible for any damages or illegal usage of any programs posted.  
-There is no guarantee that any program here is infected or not.  
-Please use a virtual machine, sandbox or decompile before you use it.  
-  
-  Good luck.</b> 
+<b>This is a collection, it's not organized. It's not a collection of the *best* versions, every single one is being archived.  
+It's simply a collection of *every* njrat version ever made, I will add anything based on njRAT/njRDP/njWorm source code.  
+This is for *archival* purposes only, I am not responsible for *any* of your usage or any problems that you will run into.  
+</b>
 
 <img src=https://img.shields.io/github/repo-size/ToolsArchives/njRAT-All-Versions alt="Repo Size">  
 
