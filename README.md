@@ -1,4 +1,6 @@
 ### I HAVE CLEANED ALL THE NESHTA INFECTIONS!!! MY FRIEND SEND ME SOME OF TOOLS FOR MY COLLECTION!!! HE DID NOT KNOW IT WAS INFECTED, FORGIVE HIM BECAUSE I ALREADY GOT ANGRY FOR AT HIM FOR THIS!!! I HAVE MANUALLY CLEANED HIS CONTRIBUTED ITEMS.
+### CLEAN YOUR SYSTEM (CURE NESHTA): https://www.softpedia.com/get/Antivirus/Dr-WEB-CureIt.shtml  
+### CHECK FOR BACKDOOR: https://www.bleepingcomputer.com/download/rkill/  
 
 <b>This is a collection, it's not organized. It's not a collection of the *best* versions, every single one is being archived.  
 It's simply a collection of *every* njrat version ever made, any version with *backdoors*, I will add info.  
